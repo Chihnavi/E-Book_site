@@ -1,1 +1,3 @@
 E-BOOK_SITE
+In developing an e-book website, I utilized HTML5 to structure the content, employing <div> and <span> elements to delineate sections such as the header, main content area, and footer. This approach facilitated clear organization and straightforward navigation. For styling, I applied CSS3 to define typography, color schemes, and spacing, creating a consistent and visually appealing design. The layout was fixed to a width suitable for standard laptop screens, as the site was optimized specifically for laptop viewing. This combination of HTML5, CSS3, and JavaScript resulted in a functional and user-friendly e-book platform tailored for desktop users.
+
